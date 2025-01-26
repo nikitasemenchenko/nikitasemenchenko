@@ -10,12 +10,6 @@
   ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)  
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
 ---
-## 💡 My Goals  
-✨ Build an app that will be helpful to thousands of users.  
-📚 Continuously improve my skills and explore exciting Android tools.  
-🤝 Get inspired by other developers' projects and share my own ideas.  
-
----
 
 ## 📂 Projects  
 ### ✔️ Task Tracker
@@ -27,13 +21,6 @@ An app that allows you track tasks and save your plans for days and months ahead
 A simple app built with Jetpack Compose and MediaPlayer to play tunes.  
 
 [👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/YandexMusicPlayerClone)   
-
----
-
-## 🌟 My Interests  
-- 📱 Mobile technologies and interesting projects.
-- 🎨 Minimalist and functional UI/UX design.  
-- 🕹 Gaming — a source of inspiration for user interaction.  
 
 ---
 
