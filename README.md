@@ -20,9 +20,12 @@
 ## 📂 Projects  
 ### ✔️ Task Tracker
 An app that allows you track tasks and save your plans for days and months ahead.
-[👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/TaskTracker)  
+
+[👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/TaskTracker) 
+
 ### 🎶 Music Player  
 A simple app built with Jetpack Compose and MediaPlayer to play tunes.  
+
 [👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/YandexMusicPlayerClone)   
 
 ---
