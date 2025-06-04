@@ -17,10 +17,10 @@ An app that allows you track tasks and save your plans for days and months ahead
 
 [👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/TaskTracker) 
 
-### 🎶 Music Player  
-A simple app built with Jetpack Compose and MediaPlayer to play tunes.  
+### ✔️ Your Kotlin teacher
+With this app you can easily learn Kotlin programming language. Only practical information and useful code examples.
 
-[👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/YandexMusicPlayerClone)   
+[👉 **Check it out on GitHub**](https://github.com/nikitasemenchenko/LearnKotlin) 
 
 ---
 
